@@ -16,7 +16,7 @@ app.add_middleware(
 )
 
 # Load the pre-trained model
-model = joblib.load("house_price_model.pkl")
+model = joblib.load("/Users/paoloceccolini/Documents/GitHub/paolo-ml-demo/backend/house_price_model.pkl")
 
 
 
