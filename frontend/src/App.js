@@ -98,7 +98,9 @@ function App() {
             >
               <option value="random_forest">Random Forest</option>
               <option value="linear">Linear Regression</option>
-              <option value="knn">K-Nearest-Neighbours</option>              
+              <option value="knn">K-Nearest-Neighbours</option>
+              
+                            
             </select>
           </div>
 
